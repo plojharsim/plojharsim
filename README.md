@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @plojharsim
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Ahoj, jmenuji se Šimon Plojhar
+- 👀 Mám zájem o programování
+- 🌱 Momentálně se učím HTML, CSS a JS
+- 💞️ Nehledám spolupráci na nic
+- 📫 Můj email je plojharsim@gmail.com
+- 😄 Pohlaví: Muž
+- ⚡ Zajímavost: :D
