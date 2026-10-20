@@ -1,6 +1,6 @@
 - 👋 Ahoj, jmenuji se Šimon Plojhar
 - 👀 Mám zájem o programování
 - 🌱 Studuji na SSPŠ
-- 📫 Můj email je plojharsim@gmail.com
+- 📫 Můj email je kontakt@plojharsim.cz
 - 😄 Pohlaví: Muž
 - ⚡ Zajímavost: :D
