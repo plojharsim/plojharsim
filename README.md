@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=700&lines=Ahoj%2C+jsem+%C5%A0imon+%F0%9F%91%8B;Student+%26+tv%C5%AFrce+web%C5%AF+a+aplikac%C3%AD;Tv%C5%AFrce+Classmate;Selfhoster+%26+Linux+nad%C5%A1enec" alt="Typing SVG" />
+# Šimon Plojhar
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=6EE7B7&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Student+%26+tv%C5%AFrce+web%C5%AF+a+aplikac%C3%AD;Autor+Classmate;Selfhoster+%26+Linux+nad%C5%A1enec" alt="Student a tvůrce webů a aplikací" />
 
 **Mladý vývojář z Česka s vášní pro moderní webové aplikace a neustálé učení.**
 
